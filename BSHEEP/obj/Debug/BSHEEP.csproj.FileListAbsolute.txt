@@ -1,3 +1,8 @@
 C:\Users\jwest\Desktop\BSHEEP\BSHEEP\bin\Debug\BSHEEP.exe.config
 J:\BSHEEP\BSHEEP\bin\Debug\BSHEEP.exe.config
 C:\Users\Kath\Desktop\BSHEEP\BSHEEP\bin\Debug\BSHEEP.exe.config
+C:\Users\Kath\Desktop\BSHEEP\BSHEEP\bin\Debug\BSHEEP.exe
+C:\Users\Kath\Desktop\BSHEEP\BSHEEP\bin\Debug\BSHEEP.pdb
+C:\Users\Kath\Desktop\BSHEEP\BSHEEP\obj\Debug\BSHEEP.csprojResolveAssemblyReference.cache
+C:\Users\Kath\Desktop\BSHEEP\BSHEEP\obj\Debug\BSHEEP.exe
+C:\Users\Kath\Desktop\BSHEEP\BSHEEP\obj\Debug\BSHEEP.pdb
